@@ -1,4 +1,4 @@
-# Formula
+xc # Formula
 Consider Sample space $S$ and the Subset $A \subseteq S$, and the probability of $A$ out of $S$ be $P(A)$:
 $$S_i\rightarrow P(A)=\frac{|A|}{|S|}$$
 # Example
@@ -57,3 +57,50 @@ So,
 $$P(A|B)=\frac{P(A)P(B|A)}{P(A\cap B)+P(A'\cap B)}=\frac{P(A)P(B|A)}{P(A)P(B|A)+P(A')P(B|A')}$$
 And now to fill in numbers:
 $$P(A|B)=\frac{(0.05)(0.95)}{(0.05)(0.95)+(0.95)(0.1)}$$
+******
+# Probability Mass Function
+A function where there is some constant $c$ and a function that all values of $x$ will output 1 together.
+
+Let $X$ be a discrete random variable with probability mass function $p(x)=P(X=x$.)
+
+The mean of $X$ is given by
+$$\mu_x=\sum_xxP(X=x)$$
+where the sum is over all possible values of $X$.
+	The mean of $X$ is sometimes called the expectation, or expected value, of $X$ and may also be denoted by $E(X)$ or by $\mu$.
+## Example
+Toss a coin 3 times. Find the expected value of number of heads. 
+
+Let $X$ be the number of heads.
+$i$ can be $0,1,2,3$
+
+| x=i |     | P(x=i)    |
+| --- | --- | --------- |
+| 0   |     | $\frac18$ |
+| 1   |     | $\frac38$ |
+| 2   |     | $\frac38$ |
+| 3   |     | $\frac18$ |
+
+$E(x)=\sum i P(x=i)$
+
+$$=0(\frac18)+1(\frac38)+2(\frac38)+3(\frac18)$$
+$$=\frac32=1.5\text { heads}$$
+
+## Example
+A player pays $3 to play the following game: He tosses three fair coins and receives back payoffs of $1 if he tosses no heads, \$2 got one head, \$3 got two heads, and \$4 for three heads. Find the player's expected net winnings for this game.
+
+For net winning , each $i$ must be the net gain from each outcome.
+
+| # of heads | P(x)      | Gross($) | Net($) |
+| ---------- | --------- | -------- | ------ |
+| 0          | $\frac18$ | 1        | -2     |
+| 1          | $\frac38$ | 2        | -1     |
+| 2          | $\frac38$ | 3        | 0      |
+| 3          | $\frac18$ | 4        | 1      |
+
+$$E(x)=\sum i P(x=i)=-2(\frac18)+-1(\frac38)+0(\frac38)+1(\frac18)=-0.5$$
+*****
+if $E(x)=0$, then a game can be considered a **fair game**, $E(x)<0$, then it is unfair against the player. If $E(x)>0$, then the game is unfair in favor of the player.
+
+
+
+$$Var(x)=\sum i^2P(X=i)-\mu^2=E(x^2)-(E(x))^2$$
