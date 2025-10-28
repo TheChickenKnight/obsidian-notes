@@ -7,7 +7,7 @@ share_updated: 2025-10-14T13:10:39-04:00
 Means our minds is a blank slate in latin, furnished by our environment.
 # Dr. Molyneaux
 Asks the famous question:
-**If someone who was born blind, suddenly gained sight, would they be able to identify objects(sphere v.s. a cube) based on sight that they originally only knew by sight?**
+**If someone who was born blind, suddenly gained sight, would they be able to identify objects(sphere v.s. a cube) based on sight that they originally only knew by touch?**
 
 - Experience is the only way we can make sense of the world around us. We actively select what we are perceiving.
 
