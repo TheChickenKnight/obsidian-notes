@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "924421102c4676ad",
+        "id": "9253d0fda9c8c71a",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bec452418c16f5",
+            "id": "1cd6351f4b6eda90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "DND/Days/10.25.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "3cc2fad12bb3a47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Days/10.3.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.3.2025"
+              "title": "10.25.2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c296dca7ef1353e3",
@@ -166,6 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -175,37 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cc2fad12bb3a47e",
+  "active": "1cd6351f4b6eda90",
   "lastOpenFiles": [
+    "DND/Days/10.3.2025.md",
+    "DND/Days/10.25.2025.md",
+    "Untitled 1.md",
+    "College/Junior/Minds, Machines, and Persons/Representation.md",
+    "College/Junior/Minds, Machines, and Persons/Materialism.md",
+    "College/Junior/Minds, Machines, and Persons/They're Made out of Meat.md",
+    "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
+    "College/Junior/Minds, Machines, and Persons/Turing Test.md",
+    "College/Junior/Minds, Machines, and Persons/9-16-2025.md",
+    "College/Junior/Minds, Machines, and Persons/Mathematics.md",
+    "College/Junior/Minds, Machines, and Persons/Untitled 1.md",
+    "College/Junior/Discrete Structures 2/Probability.md",
+    "Oneshot/Floor 2",
+    "Oneshot/Floor 1/Room 501.md",
+    "Oneshot/Floor 1",
+    "Oneshot",
+    "Ink/Drawing/2025.9.16 - 18.26pm.drawing",
+    "Ink/Drawing/2025.9.18 - 16.06pm.drawing",
+    "Ink/Drawing/2025.9.9 - 18.42pm.drawing",
+    "Ink/Drawing/2025.9.16 - 18.28pm.drawing",
+    "Ink/Drawing/2025.9.11 - 18.33pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "College/Junior/Ancient&Medieval Europe/The Middle Ages.md",
+    "College/Junior/Ancient&Medieval Europe/High Middle Ages.md",
+    "College/Junior/Ancient&Medieval Europe/Islam and the Islamic Empires.md",
+    "College/Junior/Ancient&Medieval Europe/Early Western Christendom.md",
+    "College/Junior/Ancient&Medieval Europe/Byzantine Empire.md",
+    "College/Junior/Public Speaking/Info speech reflection.md",
+    "College/Junior/Public Speaking/9-2-2025.md",
+    "College/Junior/Discrete Structures 2/Set Theory.md",
+    "College/Junior/Discrete Structures 2/Counting.md",
     "DND/Days/9-12-2025.md",
     "DND/Days/9.20.2025.md",
     "DND/Days/8-23-2025.md",
-    "DND/Days/8-30-2025.md",
-    "DND/Days/10.3.2025.md",
-    "DND/Days/9.28.2025.md",
-    "Untitled 1.md",
-    "DND/Days/9.27.2025.md",
-    "DND/Days/7-18-2025.md",
-    "DND/Players/Lorenzo.md",
-    "DND/Days/8-9-2025.md",
-    "DND/Days/8-16-2025.md",
-    "DND/Major Villains/Guglom.md",
-    "DND/Major Villains",
-    "DND/Characters/Samus.md",
-    "DND/Characters/Sigsi.md",
-    "DND/Characters/Lapea of The Flowing Tides.md",
-    "DND/Characters",
-    "DND/Players/Sirus.md",
-    "DND/Players/Tershin.md",
-    "DND/Players/Sirona.md",
-    "DND/Players/Hylfhanie.md",
-    "DND/Players/Adeve.md",
-    "DND/Players",
-    "DND/Location/The Shells.md",
-    "DND/Location/The Conclave.md",
-    "DND/Location",
-    "DND/Days",
-    "DND",
-    "erm.md"
+    "DND/Days/8-30-2025.md"
   ]
 }

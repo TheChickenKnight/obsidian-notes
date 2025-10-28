@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/70mtg060#J1QfLqyIgnyr4JJJrnw+rXdJv8jmeqEy88zBUhuckmU
+share_updated: 2025-10-20T13:48:49-04:00
+---
 # Formula
 Consider Sample space $S$ and the Subset $A \subseteq S$, and the probability of $A$ out of $S$ be $P(A)$:
 $$S_i\rightarrow P(A)=\frac{|A|}{|S|}$$
