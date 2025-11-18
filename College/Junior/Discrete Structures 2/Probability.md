@@ -1,4 +1,4 @@
-xc # Formula
+# Formula
 Consider Sample space $S$ and the Subset $A \subseteq S$, and the probability of $A$ out of $S$ be $P(A)$:
 $$S_i\rightarrow P(A)=\frac{|A|}{|S|}$$
 # Example
