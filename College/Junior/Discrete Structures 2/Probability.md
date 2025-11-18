@@ -108,3 +108,4 @@ if $E(x)=0$, then a game can be considered a **fair game**, $E(x)<0$, then it is
 
 
 $$Var(x)=\sum i^2P(X=i)-\mu^2=E(x^2)-(E(x))^2$$
+

@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cd6351f4b6eda90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "b515e4fd58cbc9ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Junior/Discrete Structures 2/Probability.md",
+                "file": "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability"
+              "title": "To See and Not See"
+            }
+          },
+          {
+            "id": "9242865cf47ec3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -176,25 +176,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b515e4fd58cbc9ba",
+  "active": "9242865cf47ec3c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
+    "Untitled.md",
+    "College/Junior/Minds, Machines, and Persons/They're Made out of Meat.md",
+    "College/Junior/Minds, Machines, and Persons/Representation.md",
+    "College/Junior/Minds, Machines, and Persons/9-16-2025.md",
+    "College/Junior/Minds, Machines, and Persons/Untitled 1.md",
     "College/Junior/Discrete Structures 2/Probability.md",
-    "DND/Days/10.25.2025.md",
+    "Oneshot/Floor 1/Room 501.md",
     "DND/Untitled 1.md",
+    "conflict-files-obsidian-git.md",
+    "DND/Days/10.25.2025.md",
     "College/Junior/Ancient&Medieval Europe/Town and Court.md",
     "DND/Days/10.3.2025.md",
     "Untitled 1.md",
-    "College/Junior/Minds, Machines, and Persons/Representation.md",
     "College/Junior/Minds, Machines, and Persons/Materialism.md",
-    "College/Junior/Minds, Machines, and Persons/They're Made out of Meat.md",
-    "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
     "College/Junior/Minds, Machines, and Persons/Turing Test.md",
-    "College/Junior/Minds, Machines, and Persons/9-16-2025.md",
     "College/Junior/Minds, Machines, and Persons/Mathematics.md",
-    "College/Junior/Minds, Machines, and Persons/Untitled 1.md",
     "Oneshot/Floor 2",
-    "Oneshot/Floor 1/Room 501.md",
     "Oneshot/Floor 1",
     "Oneshot",
     "Ink/Drawing/2025.9.16 - 18.26pm.drawing",
@@ -212,7 +213,6 @@
     "College/Junior/Public Speaking/Info speech reflection.md",
     "College/Junior/Public Speaking/9-2-2025.md",
     "College/Junior/Discrete Structures 2/Set Theory.md",
-    "College/Junior/Discrete Structures 2/Counting.md",
-    "DND/Days/9-12-2025.md"
+    "College/Junior/Discrete Structures 2/Counting.md"
   ]
 }
