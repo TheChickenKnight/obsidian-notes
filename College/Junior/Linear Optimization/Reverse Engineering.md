@@ -58,3 +58,35 @@ $$B^{-1} =\begin{vmatrix}
 
 For the objective row, we can use $OR_j-C_j+\vec{C_B}^T\vec{t_j}$, which is row reducing.
 $$OR_{3}=-0+2(\frac{1}{5})+0(\frac{1}{5})+1(-\frac{1}{5})$$
+
+
+
+## Weak Duality Theorem
+Recall  if the primal LP is
+
+$$\text{Max }z=\vec{c}^T\vec{x}$$
+$$A\vec{x}\le\vec{b}$$
+$$\vec{x}\ge{0}$$
+
+then its dual is
+
+$$\text{Min }z'=\vec{b}^T\vec{w}$$
+$$A^T\vec{w}\ge\vec{c}$$
+$$\vec{w}\ge\vec{0}$$
+
+Suppose $\vec{x}_0$ is a Feasible Solution to LP and $\vec{w}_0$ to the Dual, then
+$$z(\vec{x}_{0})\le z'(\vec{w}_{0})$$
+
+*****
+Recall every LP is one of
+- Infeasible
+- Unbounded
+- Finite (has finite optimal value)
+
+
+- If the primal LP is Unbounded. the Dual is Infeasible.
+
+
+Supposed $\vec{x}_0$ is a FS to $P$ and $\vec w_0$ is a FS to $D$ and their objective function values match ($z(\vec x_0)=z'(\vec w_0$)).
+
+Then, $\vec x_0$ is OS to $P$ and $\vec w_0$ is OS to $D$
