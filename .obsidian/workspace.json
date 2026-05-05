@@ -4,53 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "9253d0fda9c8c71a",
+        "id": "79cf10afde5da046",
         "type": "tabs",
         "children": [
           {
-            "id": "b515e4fd58cbc9ba",
+            "id": "3247713f5bee0cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
+                "file": "Khorvaire by Night/Characters/Yorick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To See and Not See"
+              "title": "Yorick"
             }
           },
           {
-            "id": "9242865cf47ec3c3",
+            "id": "1dbb336c598622da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Khorvaire by Night/Characters/Talarond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Talarond"
             }
           },
           {
-            "id": "bebd30478ca5dd8b",
+            "id": "8aba04b7735547c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Junior/Discrete Structures 2/Probability.md",
+                "file": "Khorvaire by Night/Days/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability"
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "006ecfe9e2810d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Khorvaire by Night/Days/Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
+          },
+          {
+            "id": "1574c73ffd8aefc1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "09d3b594a4f55079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "1aac2d9ae2a2ee4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
+            "id": "09959bd4d5847e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Junior/Discrete Structures 2/Set Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set Theory"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,43 +256,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bebd30478ca5dd8b",
+  "active": "09959bd4d5847e4b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "College/Junior/Discrete Structures 2/Probability.md",
-    "Untitled.md",
-    "College/Junior/Minds, Machines, and Persons/Behaviorism.md",
-    "College/Junior/Discrete Structures 2/Commonly Used Distributions.md",
-    "College/Junior/Ancient&Medieval Europe/Untitled.md",
-    "College/Junior/Minds, Machines, and Persons/To See and Not See.md",
-    "College/Junior/Minds, Machines, and Persons/They're Made out of Meat.md",
-    "College/Junior/Minds, Machines, and Persons/Representation.md",
-    "College/Junior/Minds, Machines, and Persons/9-16-2025.md",
-    "College/Junior/Minds, Machines, and Persons/Untitled 1.md",
-    "Oneshot/Floor 1/Room 501.md",
-    "DND/Untitled 1.md",
-    "DND/Days/10.25.2025.md",
-    "College/Junior/Ancient&Medieval Europe/Town and Court.md",
-    "DND/Days/10.3.2025.md",
+    "Untitled 3.md",
+    "College/Junior/Discrete Structures 2/Set Theory.md",
+    "College/Junior/Linear Optimization/Intro.md",
+    "DND/Days/8-23-2025.md",
+    "Untitled 2.md",
     "Untitled 1.md",
-    "College/Junior/Minds, Machines, and Persons/Materialism.md",
-    "College/Junior/Minds, Machines, and Persons/Turing Test.md",
-    "College/Junior/Minds, Machines, and Persons/Mathematics.md",
+    "Khorvaire by Night/Days/Session 3.md",
+    "Khorvaire by Night/Days/Session 1.md",
+    "Khorvaire by Night/Days/Session 2.md",
+    "Khorvaire by Night/Characters/The Slasher.md",
+    "Khorvaire by Night/Characters/Yorick.md",
+    "Khorvaire by Night/Characters/Arash'Nor.md",
+    "Mary.md",
+    "Khorvaire by Night/Characters/Watchman.md",
+    "Khorvaire by Night/Characters/Talarond.md",
+    "Khorvaire by Night/Characters",
+    "DND/Days/8-9-2025.md",
+    "Khorvaire by Night/Days",
+    "Khorvaire by Night",
+    "College/Junior/Linear Optimization",
+    "Requiem/1-11-2026.md",
+    "Requiem/1-17-2026.md",
+    "Requiem/1-3-2026.md",
+    "Requiem/12-6-2025.md",
+    "Requiem/12-30-2025.md",
+    "Requiem/12-20-2025.md",
+    "College/Junior/Discrete Structures 2/Commonly Used Distributions.md",
+    "College/Junior/Discrete Structures 2/Probability.md",
+    "Requiem/11-29-2025.md",
+    "Untitled.md",
+    "Requiem",
     "Oneshot/Floor 2",
     "Oneshot/Floor 1",
     "Oneshot",
     "Ink/Drawing/2025.9.16 - 18.26pm.drawing",
-    "Ink/Drawing/2025.9.18 - 16.06pm.drawing",
-    "Ink/Drawing/2025.9.9 - 18.42pm.drawing",
-    "Ink/Drawing/2025.9.16 - 18.28pm.drawing",
-    "Ink/Drawing/2025.9.11 - 18.33pm.drawing",
-    "Ink/Drawing",
-    "Ink",
-    "College/Junior/Ancient&Medieval Europe/The Middle Ages.md",
-    "College/Junior/Ancient&Medieval Europe/High Middle Ages.md",
-    "College/Junior/Ancient&Medieval Europe/Islam and the Islamic Empires.md",
-    "College/Junior/Ancient&Medieval Europe/Early Western Christendom.md",
-    "College/Junior/Ancient&Medieval Europe/Byzantine Empire.md",
-    "College/Junior/Public Speaking/Info speech reflection.md"
+    "Ink/Drawing/2025.9.18 - 16.06pm.drawing"
   ]
 }

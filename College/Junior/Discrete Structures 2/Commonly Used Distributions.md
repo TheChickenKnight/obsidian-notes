@@ -66,7 +66,7 @@ Let $X$ be the number of trials up to and including $r$ successes, where $p$ is 
 $$X\sim NB(r,p)$$
 
 ## Probability
-$$P(X=i)=_{i-1}C_{r-1}p^{r-1}q^{i-r}p$$
+$$P(X=i)=_{i-1}C_{r-1}p^{r}q^{i-r}$$
 ## Mean/Expected Value
 $$\mu_x=\frac rp$$
 ## Variance

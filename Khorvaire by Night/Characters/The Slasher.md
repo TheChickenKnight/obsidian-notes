@@ -1,0 +1,1 @@
+Killed Attersford, a child, then killed a woman from an old potion shop, and last night he killed a guard of the town. In that same night last night, the killer showed up in front of his child and left. The lights there turned off terrifyingly
