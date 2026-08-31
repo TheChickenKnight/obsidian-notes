@@ -1,0 +1,10 @@
+Secret higher floor. The home of Envy. The floor includes A massive suite with a video game set up, one of those chairs with monitors surrounded. Dude is playing deadlock. There is no visible way to get up. When asked about Calderone, they get mad and obsessive over one person, saying that they're best friends the whole time. She doesn't want to let them go.
+
+
+dileaj
+dude
+danny
+Jeremy
+trey
+kevin kyle
+40
