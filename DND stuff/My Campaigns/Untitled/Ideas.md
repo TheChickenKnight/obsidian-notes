@@ -1,0 +1,8 @@
+- Elves have a world tree
+- Elves or some other race attempt to control humans through drug
+- Levels are explained by soul cores
+	- Humans have 0
+	- Non human sentients have 1
+	- monsters have at least 1
+	- It takes many years to develop more than one soul core.
+	- Evil org transplants cores, figures out to get it in humans and have multiple.

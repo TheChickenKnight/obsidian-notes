@@ -8,115 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3247713f5bee0cb3",
+            "id": "dee0584cf50aa91e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khorvaire by Night/Characters/Yorick.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yorick"
+              "title": "Untitled 4"
             }
           },
           {
-            "id": "1dbb336c598622da",
+            "id": "63319e1450dfbf5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khorvaire by Night/Characters/Talarond.md",
+                "file": "DND stuff/Other Campaigns/avalon/Days/10.3.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Talarond"
-            }
-          },
-          {
-            "id": "8aba04b7735547c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khorvaire by Night/Days/Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
-            "id": "006ecfe9e2810d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khorvaire by Night/Days/Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2"
-            }
-          },
-          {
-            "id": "1574c73ffd8aefc1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "09d3b594a4f55079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "1aac2d9ae2a2ee4c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
-            "id": "09959bd4d5847e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Junior/Discrete Structures 2/Set Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set Theory"
+              "title": "10.3.2025"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -256,43 +178,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09959bd4d5847e4b",
+  "active": "6a39dce69b16eb64",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "College/Junior/Discrete Structures 2/Set Theory.md",
-    "College/Junior/Linear Optimization/Intro.md",
-    "DND/Days/8-23-2025.md",
+    "DND stuff/Other Campaigns/Backstory (gabe).md",
+    "DND stuff/Other Campaigns/Requiem/Backstory.md",
+    "DND stuff/My Campaigns/Oneshot/What they did so far.md",
+    "JOB/user.jpg",
+    "JOB",
+    "Untitled.base",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Khorvaire by Night/Days/Session 3.md",
-    "Khorvaire by Night/Days/Session 1.md",
-    "Khorvaire by Night/Days/Session 2.md",
-    "Khorvaire by Night/Characters/The Slasher.md",
-    "Khorvaire by Night/Characters/Yorick.md",
-    "Khorvaire by Night/Characters/Arash'Nor.md",
-    "Mary.md",
-    "Khorvaire by Night/Characters/Watchman.md",
-    "Khorvaire by Night/Characters/Talarond.md",
-    "Khorvaire by Night/Characters",
-    "DND/Days/8-9-2025.md",
-    "Khorvaire by Night/Days",
-    "Khorvaire by Night",
-    "College/Junior/Linear Optimization",
-    "Requiem/1-11-2026.md",
-    "Requiem/1-17-2026.md",
-    "Requiem/1-3-2026.md",
-    "Requiem/12-6-2025.md",
-    "Requiem/12-30-2025.md",
-    "Requiem/12-20-2025.md",
-    "College/Junior/Discrete Structures 2/Commonly Used Distributions.md",
-    "College/Junior/Discrete Structures 2/Probability.md",
-    "Requiem/11-29-2025.md",
-    "Untitled.md",
-    "Requiem",
-    "Oneshot/Floor 2",
-    "Oneshot/Floor 1",
-    "Oneshot",
-    "Ink/Drawing/2025.9.16 - 18.26pm.drawing",
-    "Ink/Drawing/2025.9.18 - 16.06pm.drawing"
+    "DND stuff/Other Campaigns/Requiem/1-11-2026.md",
+    "DND stuff/My Campaigns",
+    "ANOMALY/Untitled.md",
+    "JOB/Clinical trial agentic system - EISAI.canvas",
+    "DND stuff/Other Campaigns",
+    "DND stuff",
+    "DND stuff/My Campaigns/Untitled/Timelines/True Timeline.md",
+    "DND stuff/My Campaigns/Untitled/Timelines/Timeline as it's told.md",
+    "DND stuff/My Campaigns/Untitled/Gods/Rimuru.md",
+    "DND stuff/My Campaigns/Untitled/Gods/Felt.md",
+    "DND stuff/My Campaigns/Untitled/Gods/Encrid.md",
+    "DND stuff/My Campaigns/Untitled/Gods/Soldat.md",
+    "DND stuff/My Campaigns/Untitled/Gods/Zeil.md",
+    "DND stuff/My Campaigns/Untitled/Ideas.md",
+    "DND stuff/Other Campaigns/Requiem/1-3-2026.md",
+    "ANOMALY/1-3-2026 1.md",
+    "ANOMALY",
+    "College/Junior/Linear Optimization/Complimentary Slackness.md",
+    "College/Junior/Linear Optimization/Transportation Problem.md",
+    "College/Junior/Linear Optimization/Reverse Engineering.md",
+    "College/Junior/Linear Optimization/Dual.md",
+    "College/Junior/Linear Optimization/Dual Simplex Method.md",
+    "College/Junior/Linear Optimization/LP Forms.md",
+    "College/Junior/Linear Optimization/LP to single table.md",
+    "College/Junior/Linear Optimization/Intro.md",
+    "College/Junior/Linear Optimization/Integer Program.md",
+    "DND stuff/My Campaigns/Untitled/Timelines",
+    "Pasted image 20260519165201.png",
+    "DND stuff/My Campaigns/Untitled/Gods",
+    "DND stuff/My Campaigns/Untitled",
+    "Pasted image 20260517113423.png",
+    "DND stuff/Other Campaigns/Khorvaire by Night/Characters"
   ]
 }
